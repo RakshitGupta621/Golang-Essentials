@@ -1,2 +1,2 @@
 # Golang-Basics
-Golang modules by LCO 
+Golang modules from LCO Bootcamp
